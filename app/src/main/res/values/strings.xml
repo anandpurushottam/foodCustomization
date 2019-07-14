@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FoodOrder</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="toolbar">Toolbar</string>
+
+
+    <!-- Network ErrorDTO Message -->
+    <string name="str_internet_connection_error">Internet connection error</string>
+    <string name="str_internal_server_error">internal_server_error</string>
+    <string name="str_timeout_error">Tempory network error</string>
+    <string name="str_user_unauthorized_error">User not authorized error</string>
+    <string name="str_api_not_found_error">Api not found</string>
+    <string name="str_json_syntax_mismatch_error">Json syntax mismatch</string>
+    <string name="str_bad_input">Bad Input</string>
+    <string name="str_unknown_error">Unknown error</string>
+    <!---->
+
+    <string name="Customize">Customize</string>
+    <string name="not_a_valid_selection">Not a valid selection</string>
+    <string name="customization_total">Customization total:</string>
+    <string name="_100">100</string>
+    <string name="title">Title</string>
+    <string name="thin">Thin</string>
+    <string name="Rupee">₹</string>
+    <string name="_10">10</string>
+    <string name="variation">Variation</string>
+</resources>
